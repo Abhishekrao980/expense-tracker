@@ -17,6 +17,7 @@
     "express": "^5.1.0",
     "mongodb": "^6.17.0",
     "mongoose": "^8.15.1",
-    "serve": "^14.2.0"
+    "serve": "^14.2.0",
+    "react-scripts": "^5.0.1"
   }
 }
